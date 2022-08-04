@@ -1,0 +1,15 @@
+C:\Users\Misha\Desktop\htgj\exa\exa_2\bin\Debug\net6.0\exa_2.exe
+C:\Users\Misha\Desktop\htgj\exa\exa_2\bin\Debug\net6.0\exa_2.deps.json
+C:\Users\Misha\Desktop\htgj\exa\exa_2\bin\Debug\net6.0\exa_2.runtimeconfig.json
+C:\Users\Misha\Desktop\htgj\exa\exa_2\bin\Debug\net6.0\exa_2.dll
+C:\Users\Misha\Desktop\htgj\exa\exa_2\bin\Debug\net6.0\exa_2.pdb
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.AssemblyInfo.cs
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.dll
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\refint\exa_2.dll
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.pdb
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\exa_2.genruntimeconfig.cache
+C:\Users\Misha\Desktop\htgj\exa\exa_2\obj\Debug\net6.0\ref\exa_2.dll
